@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Leap_touching.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ObjSpawnController.cs" Line="78" Column="45" />
+      <File FileName="d:\VRPT Version 6\Assets\LeapMotion\Editor\LeapHandControllerEditor.cs" Line="20" Column="15" />
+      <File FileName="Assets\Scripts\Leap_touching.cs" Line="36" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

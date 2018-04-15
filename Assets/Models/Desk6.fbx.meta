@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: d4602228454bcc742830bd4946a60013
+timeCreated: 1459724480
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CabinetLarge
+    100002: CabinetLargeHandle
+    100004: CabinetLong
+    100006: CabinetLongHandle
+    100008: CabinetMedium
+    100010: CabinetMediumHandle
+    100012: CabinetSmall
+    100014: CabinetSmallHandle
+    100016: //RootNode
+    100018: DrawerCenter
+    100020: DrawerCenterHandle
+    100022: DrawerLarge
+    100024: DrawerLargeHandle
+    100026: DrawerMedium
+    100028: DrawerMediumHandle
+    100030: DrawerSmall
+    100032: DrawerSmallHandle
+    400000: CabinetLarge
+    400002: CabinetLargeHandle
+    400004: CabinetLong
+    400006: CabinetLongHandle
+    400008: CabinetMedium
+    400010: CabinetMediumHandle
+    400012: CabinetSmall
+    400014: CabinetSmallHandle
+    400016: //RootNode
+    400018: DrawerCenter
+    400020: DrawerCenterHandle
+    400022: DrawerLarge
+    400024: DrawerLargeHandle
+    400026: DrawerMedium
+    400028: DrawerMediumHandle
+    400030: DrawerSmall
+    400032: DrawerSmallHandle
+    2300000: CabinetLarge
+    2300002: CabinetLargeHandle
+    2300004: CabinetLong
+    2300006: CabinetLongHandle
+    2300008: CabinetMedium
+    2300010: CabinetMediumHandle
+    2300012: CabinetSmall
+    2300014: CabinetSmallHandle
+    2300016: //RootNode
+    2300018: DrawerCenter
+    2300020: DrawerCenterHandle
+    2300022: DrawerLarge
+    2300024: DrawerLargeHandle
+    2300026: DrawerMedium
+    2300028: DrawerMediumHandle
+    2300030: DrawerSmall
+    2300032: DrawerSmallHandle
+    3300000: CabinetLarge
+    3300002: CabinetLargeHandle
+    3300004: CabinetLong
+    3300006: CabinetLongHandle
+    3300008: CabinetMedium
+    3300010: CabinetMediumHandle
+    3300012: CabinetSmall
+    3300014: CabinetSmallHandle
+    3300016: //RootNode
+    3300018: DrawerCenter
+    3300020: DrawerCenterHandle
+    3300022: DrawerLarge
+    3300024: DrawerLargeHandle
+    3300026: DrawerMedium
+    3300028: DrawerMediumHandle
+    3300030: DrawerSmall
+    3300032: DrawerSmallHandle
+    4300000: Desk
+    4300002: DrawerCenterHandle
+    4300004: DrawerCenter
+    4300006: DrawerSmallHandle
+    4300008: DrawerSmall
+    4300010: DrawerMediumHandle
+    4300012: DrawerMedium
+    4300014: DrawerLargeHandle
+    4300016: DrawerLarge
+    4300018: CabinetLargeHandle
+    4300020: CabinetLarge
+    4300022: CabinetLongHandle
+    4300024: CabinetLong
+    4300026: CabinetMediumHandle
+    4300028: CabinetMedium
+    4300030: CabinetSmallHandle
+    4300032: CabinetSmall
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

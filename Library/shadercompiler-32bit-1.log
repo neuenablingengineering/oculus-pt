@@ -1,0 +1,7 @@
+Base path: D:/Program Files (x86)/Unity5-1-2p2/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-7704
+Cmd: getPlatforms
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process

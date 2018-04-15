@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: dbba6d4fe5e0a6443b931662291d4095
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: CabinetBody
+    100002: CabinetCounter
+    100004: CabinetDrawer1
+    100006: CabinetDrawer2
+    100008: CabinetDrawer3
+    100010: CabinetDrawer4
+    100012: Handle1
+    100014: Handle2
+    100016: Handle3
+    100018: Handle4
+    100020: LegBL
+    100022: LegBR
+    100024: LegFL
+    100026: LegFR
+    100028: //RootNode
+    400000: CabinetBody
+    400002: CabinetCounter
+    400004: CabinetDrawer1
+    400006: CabinetDrawer2
+    400008: CabinetDrawer3
+    400010: CabinetDrawer4
+    400012: Handle1
+    400014: Handle2
+    400016: Handle3
+    400018: Handle4
+    400020: LegBL
+    400022: LegBR
+    400024: LegFL
+    400026: LegFR
+    400028: //RootNode
+    2300000: CabinetBody
+    2300002: CabinetCounter
+    2300004: CabinetDrawer1
+    2300006: CabinetDrawer2
+    2300008: CabinetDrawer3
+    2300010: CabinetDrawer4
+    2300012: Handle1
+    2300014: Handle2
+    2300016: Handle3
+    2300018: Handle4
+    2300020: LegBL
+    2300022: LegBR
+    2300024: LegFL
+    2300026: LegFR
+    3300000: CabinetBody
+    3300002: CabinetCounter
+    3300004: CabinetDrawer1
+    3300006: CabinetDrawer2
+    3300008: CabinetDrawer3
+    3300010: CabinetDrawer4
+    3300012: Handle1
+    3300014: Handle2
+    3300016: Handle3
+    3300018: Handle4
+    3300020: LegBL
+    3300022: LegBR
+    3300024: LegFL
+    3300026: LegFR
+    4300000: Handle3
+    4300002: CabinetDrawer1
+    4300004: CabinetBody
+    4300006: LegFR
+    4300008: CabinetCounter
+    4300010: LegBR
+    4300012: LegFL
+    4300014: LegBL
+    4300016: CabinetDrawer2
+    4300018: CabinetDrawer3
+    4300020: CabinetDrawer4
+    4300022: Handle4
+    4300024: Handle2
+    4300026: Handle1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
